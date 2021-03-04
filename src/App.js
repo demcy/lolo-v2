@@ -59,7 +59,8 @@ class App extends React.Component {
                 })
             }
         };
-        xhttp.open("GET", "@raimoseero/feed-nii8kd0sz.rss", true);
+        //"proxy": "https://flipboard.com",
+        xhttp.open("GET", "https://flipboard.com/@raimoseero/feed-nii8kd0sz.rss", true);
         xhttp.send();
     }
 

@@ -2,7 +2,7 @@
   "name": "lolo-v2",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://flipboard.com",
+  
   "dependencies": {
     "@postlight/mercury-parser": "^2.2.0",
     "@testing-library/jest-dom": "^5.11.9",
